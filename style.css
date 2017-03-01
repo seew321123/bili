@@ -28,7 +28,7 @@ a{
 }
 
 #pageOne{
-	background:url(img/ty.jpg) no-repeat;
+	background:url(ty.jpg) no-repeat;
 }
 
 #pageOne > img{
@@ -83,7 +83,7 @@ a{
 
 #pageTwo{
 	top:20%;
-	background:url(img/xs.jpg) no-repeat;
+	background:url(xs.jpg) no-repeat;
 }
 
 #pageTwo > #zhangzui{
@@ -127,7 +127,7 @@ a{
 
 #pageThree{
 	top:40%;
-	background:url(img/cc.jpg) no-repeat;
+	background:url(cc.jpg) no-repeat;
 	overflow:hidden;
 }
 
@@ -155,7 +155,7 @@ a{
 
 #pageFour{
 	top:60%;
-	background:url(img/tc.jpg);
+	background:url(tc.jpg);
 }
 
 #pageFour > #jy{
